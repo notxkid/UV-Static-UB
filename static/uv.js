@@ -1,8 +1,1 @@
-importScripts('/static/uv/uv.bundle.js');
-importScripts('/static/uv/uv.config.js');
-importScripts('/static/uv/uv.sw.js');
-importScripts('https://arc.io/arc-sw-core.js');
-
-const sw = new UVServiceWorker();
-
-self.addEventListener('fetch', (event) => event.respondWith(sw.fetch(event)));
+eval(atob("aW1wb3J0U2NyaXB0cygnL3N0YXRpYy91di91di5idW5kbGUuanMnKTsNCmltcG9ydFNjcmlwdHMoJy9zdGF0aWMvdXYvdXYuY29uZmlnLmpzJyk7DQppbXBvcnRTY3JpcHRzKCcvc3RhdGljL3V2L3V2LnN3LmpzJyk7DQppbXBvcnRTY3JpcHRzKCdodHRwczovL2FyYy5pby9hcmMtc3ctY29yZS5qcycpOw0KDQpjb25zdCBzdyA9IG5ldyBVVlNlcnZpY2VXb3JrZXIoKTsNCg0Kc2VsZi5hZGRFdmVudExpc3RlbmVyKCdmZXRjaCcsIChldmVudCkgPT4gZXZlbnQucmVzcG9uZFdpdGgoc3cuZmV0Y2goZXZlbnQpKSk7"));
