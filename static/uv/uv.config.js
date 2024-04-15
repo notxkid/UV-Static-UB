@@ -1,10 +1,1 @@
-self.__uv$config = {
-    prefix: '/static/tiw/',
-    bare:'https://bare.benrogo.net',
-    encodeUrl: Ultraviolet.codec.xor.encode,
-    decodeUrl: Ultraviolet.codec.xor.decode,
-    handler: '/static/uv/uv.handler.js',
-    bundle: '/static/uv/uv.bundle.js',
-    config: '/static/uv/uv.config.js',
-    sw: '/static/uv/uv.sw.js',
-};
+eval(atob("c2VsZi5fX3V2JGNvbmZpZyA9IHsNCiAgICBwcmVmaXg6ICcvc3RhdGljL3Rpdy8nLA0KICAgIGJhcmU6J2h0dHBzOi8vYmFyZS5iZW5yb2dvLm5ldCcsDQogICAgZW5jb2RlVXJsOiBVbHRyYXZpb2xldC5jb2RlYy54b3IuZW5jb2RlLA0KICAgIGRlY29kZVVybDogVWx0cmF2aW9sZXQuY29kZWMueG9yLmRlY29kZSwNCiAgICBoYW5kbGVyOiAnL3N0YXRpYy91di91di5oYW5kbGVyLmpzJywNCiAgICBidW5kbGU6ICcvc3RhdGljL3V2L3V2LmJ1bmRsZS5qcycsDQogICAgY29uZmlnOiAnL3N0YXRpYy91di91di5jb25maWcuanMnLA0KICAgIHN3OiAnL3N0YXRpYy91di91di5zdy5qcycsDQp9Ow=="));
