@@ -1,5 +1,1 @@
-importScripts("/static/uv/uv.sw.js");
-
-const sw = new UVServiceWorker();
-
-self.addEventListener("fetch", (event) => event.respondWith(sw.fetch(event)));
+eval(atob("aW1wb3J0U2NyaXB0cygiL3N0YXRpYy91di91di5zdy5qcyIpOw0KDQpjb25zdCBzdyA9IG5ldyBVVlNlcnZpY2VXb3JrZXIoKTsNCg0Kc2VsZi5hZGRFdmVudExpc3RlbmVyKCJmZXRjaCIsIChldmVudCkgPT4gZXZlbnQucmVzcG9uZFdpdGgoc3cuZmV0Y2goZXZlbnQpKSk7"));
